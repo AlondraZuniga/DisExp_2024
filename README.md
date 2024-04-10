@@ -12,7 +12,7 @@ Repositorio para almacenar los scripts de los diferentes diseños experimentales
 
   ### Laboratorios
   
-  ### Laboratorio 1
+  #### Laboratorio 1
   #### gastos totales
   
 
