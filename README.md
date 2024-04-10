@@ -31,10 +31,25 @@ Repositorio para almacenar los scripts de los diferentes diseños experimentales
   
   ### total <- 5800
   
-  ####Autoevaluación
+  #### Autoevaluación
   
   gastos <- c(celular, transporte, comestibles, gimnasio, alquiler, otros)
+  
   barplot(gastos)
+  
+  #### Problema 1
+  
+  + Nombre del estudiante: alondra zuniga
+  
+  + Fecha de nacimiento: 21/07/2005
+  
+  + Edad: <-18
+  
+  + Direccion de casa: (tomas mendez, 819, riveras de san antonio)
+  
+  
+  
+  
   
   
   
