@@ -11,13 +11,24 @@ Repositorio para almacenar los scripts de los diferentes diseños experimentales
 
 
   ### Laboratorios
-  laboratorio 1
+  
+  ### Laboratorio 1
+  #### gastos totales
+  
+
   celular <- 300
+  
   transporte <- 240
+  
   comestibles <- 1527
+  
   gimnasio <- 400
+  
   alquiler <- 1500
+  
   otros <- 1833
+  
+  ## total <- 5800
   
 
   ### Tareas
