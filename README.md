@@ -10,10 +10,11 @@ Repositorio para almacenar los scripts de los diferentes diseños experimentales
 + Práctica 2 (10/04/2024): Crear primer proyecto en R y sincronizar con Github en la nube.
 
 
-  ### Laboratorios
+  ### Laboratorio
   
   #### Laboratorio 1
-  #### gastos totales
+
+  ##### gastos totales
   
 
   celular <- 300
@@ -28,7 +29,16 @@ Repositorio para almacenar los scripts de los diferentes diseños experimentales
   
   otros <- 1833
   
-  ## total <- 5800
+  ### total <- 5800
+  
+  ####Autoevaluación
+  
+  gastos <- c(celular, transporte, comestibles, gimnasio, alquiler, otros)
+  barplot(gastos)
+  
+  
+  
+  
   
 
   ### Tareas
